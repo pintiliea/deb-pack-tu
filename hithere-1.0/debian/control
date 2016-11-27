@@ -1,0 +1,12 @@
+Source: 	hithere
+
+Maintainer: 	alex <alex@local>
+
+Section: 	misc
+
+Priority: 	optional
+
+Standards-Version: 3.9.2
+
+Build-Depends: 	debhelper (>= 9)
+
